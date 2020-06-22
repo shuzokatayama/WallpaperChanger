@@ -3,8 +3,10 @@ import datetime
 
 def main():
     # I want my background to change after 6 AM and 8 PM
-    time = datetime.datetime.now()
-    hour = time.hour
+    # time = datetime.datetime.now()
+    # hour = time.hour
+
+    hour = 4
 
     # 19:00 : evening wallpaper
     if hour==19:
