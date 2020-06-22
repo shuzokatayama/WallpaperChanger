@@ -1,0 +1,1 @@
+"C:\Users\shuzo\AppData\Local\Programs\Python\Python38-32\python.exe" "D:\Projects\ForFun\WallpaperChanger"
