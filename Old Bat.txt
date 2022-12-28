@@ -1,0 +1,7 @@
+
+D:
+cd ProjectsForFunWallpaperChanger
+py WallpaperChanger.py
+
+ECHO bat file ran
+pause
